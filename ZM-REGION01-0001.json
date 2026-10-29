@@ -1,0 +1,35 @@
+{
+  "name": "Zielinski Metaverse Land #0001",
+  "symbol": "ZMLAND",
+  "description": "Development metadata for Founding Parcel 0001 in the Zielinski Metaverse. This metadata does not establish a completed sale or verified land boundaries.",
+  "attributes": [
+    {
+      "trait_type": "Parcel ID",
+      "value": "ZM-REGION01-0001"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Founding 36"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Region01"
+    },
+    {
+      "trait_type": "Land Type",
+      "value": "Private Beachfront"
+    },
+    {
+      "trait_type": "Area (m2)",
+      "value": "62155.9"
+    },
+    {
+      "trait_type": "Acres",
+      "value": "15.359057"
+    },
+    {
+      "trait_type": "Parcel Number",
+      "value": "1"
+    }
+  ]
+}
