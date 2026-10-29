@@ -1,0 +1,24 @@
+{
+  "name": "Zielinski Metaverse - Founding 36",
+  "symbol": "ZMLAND",
+  "description": "The first 36 virtual land parcels in the Zielinski Metaverse. This collection represents development-stage digital land assets in Region01. Parcel boundaries, ownership rights and commercial availability are subject to final platform verification.",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Region",
+      "value": "Region01"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Founding 36"
+    },
+    {
+      "trait_type": "Total Parcels",
+      "value": "36"
+    },
+    {
+      "trait_type": "Development Status",
+      "value": "Draft"
+    }
+  ]
+}
