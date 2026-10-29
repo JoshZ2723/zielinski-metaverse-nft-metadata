@@ -1,0 +1,35 @@
+{
+  "name": "Zielinski Metaverse Land #0024",
+  "symbol": "ZMLAND",
+  "description": "Founding land parcel ZM-REGION01-0024 in Region01 of the Zielinski Metaverse. Land classification: Woodland Transition. This is development-stage metadata. Parcel boundaries, ownership rights and commercial availability are subject to final platform verification.",
+  "attributes": [
+    {
+      "trait_type": "Parcel ID",
+      "value": "ZM-REGION01-0024"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Founding 36"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Region01"
+    },
+    {
+      "trait_type": "Land Type",
+      "value": "Woodland Transition"
+    },
+    {
+      "trait_type": "Area (m2)",
+      "value": "59553.14"
+    },
+    {
+      "trait_type": "Acres",
+      "value": "14.715901"
+    },
+    {
+      "trait_type": "Parcel Number",
+      "value": "24"
+    }
+  ]
+}

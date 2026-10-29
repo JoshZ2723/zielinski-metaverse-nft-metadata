@@ -1,0 +1,35 @@
+{
+  "name": "Zielinski Metaverse Land #0017",
+  "symbol": "ZMLAND",
+  "description": "Founding land parcel ZM-REGION01-0017 in Region01 of the Zielinski Metaverse. Land classification: Coastal Meadow. This is development-stage metadata. Parcel boundaries, ownership rights and commercial availability are subject to final platform verification.",
+  "attributes": [
+    {
+      "trait_type": "Parcel ID",
+      "value": "ZM-REGION01-0017"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Founding 36"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Region01"
+    },
+    {
+      "trait_type": "Land Type",
+      "value": "Coastal Meadow"
+    },
+    {
+      "trait_type": "Area (m2)",
+      "value": "119283.66"
+    },
+    {
+      "trait_type": "Acres",
+      "value": "29.475634"
+    },
+    {
+      "trait_type": "Parcel Number",
+      "value": "17"
+    }
+  ]
+}
