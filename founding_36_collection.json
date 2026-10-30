@@ -1,8 +1,9 @@
 {
   "name": "Zielinski Metaverse - Founding 36",
   "symbol": "ZMLAND",
-  "description": "The first 36 virtual land parcels in the Zielinski Metaverse. This collection represents development-stage digital land assets in Region01. Parcel boundaries, ownership rights and commercial availability are subject to final platform verification.",
-  "external_url": "",
+  "description": "The Founding 36 collection represents the first 36 virtual land parcels in Zielinski Metaverse, Region01. The parcels include beachfront, coastal dunes, meadows, woodland transitions, and forests. NFT ownership is intended to support verifiable virtual property rights within the Zielinski Metaverse platform, subject to the platform's published ownership terms.",
+  "image": "https://www.zielinskimetaverse.com/images/beachfront.webp",
+  "external_url": "https://www.zielinskimetaverse.com",
   "attributes": [
     {
       "trait_type": "Region",
@@ -18,7 +19,7 @@
     },
     {
       "trait_type": "Development Status",
-      "value": "Draft"
+      "value": "Pre-Launch"
     }
   ]
 }
